@@ -1,0 +1,13 @@
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.exe
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.deps.json
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.runtimeconfig.json
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.runtimeconfig.dev.json
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.dll
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\bin\Debug\netcoreapp3.1\LeftJoin.pdb
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.csprojAssemblyReference.cache
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.AssemblyInfoInputs.cache
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.AssemblyInfo.cs
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.csproj.CoreCompileInputs.cache
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.dll
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.pdb
+D:\Code\Git\CSharp\LeftJoin\LeftJoin\obj\Debug\netcoreapp3.1\LeftJoin.genruntimeconfig.cache
